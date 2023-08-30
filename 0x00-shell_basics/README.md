@@ -1,2 +1,2 @@
 #!/bin/bash
-Ndimo umugabo
+Making a shell script ls 

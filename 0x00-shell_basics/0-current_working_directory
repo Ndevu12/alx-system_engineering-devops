@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello bruh! How are you doing?"
+ls -l pwd cd less README.md mkdir vmx touch salama 

@@ -23,8 +23,8 @@ Modules: Puppet code is organized into modules, which are reusable units contain
 
 #### While Puppet language is a popular choice, other configuration management tools use different languages or approaches:
 
-- Ansible: Uses YAML for configuration files.
-- Chef: Uses a Ruby-based DSL.
-- SaltStack: Uses YAML for configuration files with its own templating language.
+- `Ansible:` Uses YAML for configuration files.
+- `Chef:` Uses a Ruby-based DSL.
+- `SaltStack:` Uses YAML for configuration files with its own templating language.
 
 The choice of configuration management tool and its DSL depends on specific needs, preferences, and existing infrastructure.
